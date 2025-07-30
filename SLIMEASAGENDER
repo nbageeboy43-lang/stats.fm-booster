@@ -1,0 +1,13 @@
+Microsoft Windows [Version 10.0.26100.2033]
+(c) Microsoft Corporation. ALl rights reserved.
+C: \Users\PC\Downloads\stats.fm-booster-main>go run stats.go
+Enable bulk mode? (Y/N): N
+Enter Track ID or Link: https://open.spotify.com/track/1FWqWaH781R6T32agyhpFQ?si=ny7fh_NsQeyFumqtu820_g
+Ignore dates for maximum streaming density? (Y/N): N
+Enter total number of streams: 20000
+Enter start date (e.g.,
+2015): 2025
+Enter end date (e.g.,
+2025): 2025
+Do you want to customize the file name? (Y/N): N Data written to output. json
+C: \Users\PC\Downloads\stats.fm-booster-main>
